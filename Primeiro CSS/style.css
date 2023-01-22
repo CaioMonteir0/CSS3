@@ -1,0 +1,32 @@
+h1{
+    color: rgb(1, 36, 236);
+    border: 2px dashed #ffff;
+     
+    /* ou desse modo:
+    border-width: 2px;
+    border-style: dashed;
+    border-color: #ffff;*/
+
+}
+h4{
+    color: rgb(11, 168, 196);
+}
+li{
+    color: #ffff;
+}
+.moon{
+    color: rgb(197, 80, 2);
+    
+}
+.small-text{
+    font-size: 10px;
+
+}
+.big-text{
+    font-size: 20px;
+}
+body{
+    background-image: url(895971.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+}

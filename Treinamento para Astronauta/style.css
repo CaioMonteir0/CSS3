@@ -1,0 +1,18 @@
+h2{
+    background-color: yellow;
+    border: 2px solid black;
+}
+h3{
+    color: yellow;
+    
+}
+body{
+    background-color: rgb(108, 131, 192);
+}
+
+li,h1{
+    color: #ffff;
+}
+[id='astronomy-class']{
+    color: red;
+}

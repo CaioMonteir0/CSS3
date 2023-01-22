@@ -1,0 +1,13 @@
+li >a{
+    color: red;
+}
+h4{
+    border-style: dashed;
+}
+a[href='recibo']{
+    border-style:dashed ;
+    border-color: blue;
+}
+li:nth-of-type(odd){
+    color: chartreuse;
+}
